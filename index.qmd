@@ -1,11 +1,5 @@
 ---
-title: "project_test"
+title: "A typical project summary"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+A summary and more details regarding a project
