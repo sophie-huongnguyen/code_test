@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Project A"
+  title: "Sophie Nguyen"
   navbar:
     left:
       - href: https://sophie-huongnguyen.github.io/
